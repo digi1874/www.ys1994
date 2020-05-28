@@ -1,0 +1,20 @@
+<template>
+  <svg viewBox="0 0 100 100" stroke="currentColor">
+    <line
+      x1="10"
+      y1="10"
+      x2="90"
+      y2="90"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+    <line
+      x1="90"
+      y1="10"
+      x2="10"
+      y2="90"
+      stroke-width="10"
+      stroke-linecap="round"
+    />
+  </svg>
+</template>
